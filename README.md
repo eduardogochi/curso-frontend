@@ -1,3 +1,5 @@
+Autor: @kid_edouard
+
 curso-frontend
 ==============
 
